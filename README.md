@@ -20,3 +20,8 @@ A role-based AI architecture for LMS platforms.
 Strategy → UX → Architecture → Mock Service
 
 🔗 https://github.com/mhmtylmz0080/vedubox-ai-copilot
+
+---
+
+📫 Connect with me:
+(https://www.linkedin.com/in/mahmut-y%C4%B1lmaz-499a60249/)
