@@ -1,16 +1,22 @@
-## Hi there 👋
+# Mahmut Yılmaz
 
-<!--
-**mhmtylmz0080/mhmtylmz0080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Product Manager | AI-Driven Learning Systems
 
-Here are some ideas to get you started:
+I design AI-powered product systems focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Architecture (RAG-based systems)
+- Human-in-the-loop AI governance
+- KPI-driven AI optimization
+- LMS transformation strategy
+
+---
+
+## 🚀 Featured Project
+
+### Vedubox AI Copilot
+
+A role-based AI architecture for LMS platforms.
+
+Strategy → UX → Architecture → Mock Service
+
+🔗 https://github.com/mhmtylmz0080/vedubox-ai-copilot
